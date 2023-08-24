@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* *{
+    border: white 1px dashed;
+} */
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  -moz-appearance: none; /* Hide the default arrow in Firefox */
+  margin: 0; 
+}
+:root{
+    --primary-color:#E48C28;
+    --primary-hard-color:#EA732B;
+    --secondary-color:#232323;
+    --content-color:#9A9A9A;
+}
+@layer utilities{
+    .Checked_box{
+        @apply bg-[#E48C28]
+    } 
+}
+

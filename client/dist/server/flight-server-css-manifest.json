@@ -1,0 +1,21 @@
+{
+  "cssImports": {
+    "C:\\Users\\yassi\\OneDrive\\Bureau\\next-node\\client\\src\\app\\layout.tsx": [
+      "C:\\Users\\yassi\\OneDrive\\Bureau\\next-node\\client\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Ubuntu\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":\"400\"}],\"variableName\":\"inter\"}",
+      "C:\\Users\\yassi\\OneDrive\\Bureau\\next-node\\client\\src\\app\\globals.css",
+      "C:\\Users\\yassi\\OneDrive\\Bureau\\next-node\\client\\node_modules\\react-toastify\\dist\\ReactToastify.css"
+    ]
+  },
+  "cssModules": {
+    "C:\\Users\\yassi\\OneDrive\\Bureau\\next-node\\client\\src\\app\\auth\\login\\page": [
+      "C:\\Users\\yassi\\OneDrive\\Bureau\\next-node\\client\\src\\app\\globals.css",
+      "C:\\Users\\yassi\\OneDrive\\Bureau\\next-node\\client\\node_modules\\react-toastify\\dist\\ReactToastify.css",
+      "C:\\Users\\yassi\\OneDrive\\Bureau\\next-node\\client\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Ubuntu\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":\"400\"}],\"variableName\":\"inter\"}"
+    ],
+    "C:\\Users\\yassi\\OneDrive\\Bureau\\next-node\\client\\src\\app\\auth\\register\\page": [
+      "C:\\Users\\yassi\\OneDrive\\Bureau\\next-node\\client\\src\\app\\globals.css",
+      "C:\\Users\\yassi\\OneDrive\\Bureau\\next-node\\client\\node_modules\\react-toastify\\dist\\ReactToastify.css",
+      "C:\\Users\\yassi\\OneDrive\\Bureau\\next-node\\client\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Ubuntu\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":\"400\"}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
