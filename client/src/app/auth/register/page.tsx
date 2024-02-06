@@ -37,7 +37,7 @@ const Register = () => {
           email: userInfo.email,
           password: userInfo.password,
         }
-      );
+      ); 
       setCookie("userId", data.id, { path: '/' })
       setLoading(false);
       setSentEmailtVerification(true);

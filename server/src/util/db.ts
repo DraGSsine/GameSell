@@ -4,7 +4,7 @@ dotenv.config()
 async function connectDB() {
   try {
     if (process.env.DATABASE_URI) {
-      await mongoose.connect(process.env.DATABASE_URI,{family:4});
+      await mongoose.connect(process.env.DATABASE_URI);
       console.log('Connected to the database');
     } else {
       console.log('DATABASE_URI is not defined');
